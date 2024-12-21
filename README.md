@@ -9,4 +9,3 @@ This project analyzes sales data and predicts revenue based on units sold and pr
 ## Project Description:
 - Data analysis and visualization of sales data.
 - Predictive model for future sales based on historical data.
-- 
